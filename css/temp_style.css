@@ -1,0 +1,90 @@
+﻿*{
+    box-sizing: border-box;
+}
+
+/* .menu{
+    display: inline-block;
+    width: 150px;
+    padding: 10px;
+    margin: 0 5px;
+} */
+/* 
+.menu__wrapper{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+ */
+
+.explorer__rewiews{
+	min-width: 200px;
+    max-height: 500px;
+    width: 100%;
+    margin-right: 15px;
+    background: #fff;
+    padding: 15px 0;
+    -webkit-flex-shrink: 5;
+    -ms-flex-negative: 5;
+    flex-shrink: 5;
+    border-radius: 5px;
+}
+
+.explorer__rewiews-avatar{
+	display: block;	
+}
+
+.explorer__rewiews-rewiew{
+	display: block;
+	width: 100%;
+}
+
+.btn{
+display: inline-block;
+text-align: center;
+} 
+
+.btn-send{
+	padding: 5px 15px;
+	background: lightblue;
+	margin-top: 10px;
+	min-width: 150px;
+
+}
+
+.rewiews_edit{
+	margin-top:15px;
+}
+
+.di_none{
+	display:none;
+}
+
+.main-logo, .main-logo__slogan{
+	display: block;
+    cursor: pointer;
+}
+
+.main-logo:hover{
+	color: #f16c4d;
+}
+
+img.reviews__review-img{
+	max-width: 64px;
+}
+
+.ad_content_rewiew{
+	overflow: hidden;
+    text-overflow: ellipsis;
+    width: 400px;
+    display: inline-block;
+    white-space: nowrap;
+    height: 16px;
+}
+
+.leftBlock__section li a{
+	display: inline-block;
+	width: calc(100% - 40px);
+}
+
+.reviews__review-content{
+	height: 106px;
+}

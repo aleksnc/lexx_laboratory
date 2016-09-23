@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="86be5b07-1c4b-4d8a-841d-8b3d9860d050" name="laboratory" url="http://77.222.40.49">
+        <fileTransfer host="77.222.40.49" port="21" rootFolder="/laboratory" password="dfdbdf9bdfdddf98dffbdf8bdffddfea" username="dedmoro5ru">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
